@@ -14,6 +14,7 @@ com.android.chrome
 com.android.hotwordenrollment.okgoogle
 com.android.hotwordenrollment.xgoogle
 com.aura.oobe.solutions
+com.google.ambient.streaming
 com.google.android.apps.bard
 com.google.android.apps.docs
 com.google.android.apps.maps
@@ -26,6 +27,7 @@ com.google.android.apps.turbo
 com.google.android.apps.wellbeing
 com.google.android.apps.youtube.music
 com.google.android.as
+com.google.android.as.oss
 com.google.android.calculator
 com.google.android.calendar
 com.google.android.contacts
@@ -46,6 +48,5 @@ com.nothing.soundrecorder
 com.nothing.universal.search
 com.nothing.user.center
 com.nothing.userguide
-com.nothing.wallpaper
 com.nothing.weather
 ```
