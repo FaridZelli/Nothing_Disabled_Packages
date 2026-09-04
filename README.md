@@ -13,7 +13,6 @@ xargs -a packages.txt -n1 adb shell pm clear
 com.android.chrome
 com.android.hotwordenrollment.okgoogle
 com.android.hotwordenrollment.xgoogle
-com.aura.oobe.solutions
 com.google.ambient.streaming
 com.google.android.apps.bard
 com.google.android.apps.docs
@@ -50,4 +49,9 @@ com.nothing.universal.search
 com.nothing.user.center
 com.nothing.userguide
 com.nothing.weather
+```
+
+- **Disable if present:**
+```
+com.aura.oobe.solutions
 ```
