@@ -1,10 +1,15 @@
 List of apps that are safe to disable on Nothing OS
 
+- **Disable list of apps:**  
+`xargs -a packages.txt -n1 adb shell pm disable-user --user 0`
+
+- **Clear Data for list of apps:**  
+`xargs -a packages.txt -n1 adb shell pm clear`
+
 ```
 com.android.chrome
 com.android.hotwordenrollment.okgoogle
 com.android.hotwordenrollment.xgoogle
-com.android.virtualization.terminal
 com.aura.oobe.solutions
 com.google.android.apps.bard
 com.google.android.apps.docs
@@ -21,9 +26,6 @@ com.google.android.calculator
 com.google.android.calendar
 com.google.android.contacts
 com.google.android.deskclock
-com.google.android.devicelockcontroller
-com.google.android.gm
-com.google.android.gms.supervision
 com.google.android.googlequicksearchbox
 com.google.android.keep
 com.google.android.projection.gearhead
