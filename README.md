@@ -37,6 +37,7 @@ com.google.android.keep
 com.google.android.projection.gearhead
 com.google.android.videos
 com.google.android.youtube
+com.nothing.ai.service
 com.nothing.aiwidget
 com.nothing.essentialintelligence
 com.nothing.hearthstone
