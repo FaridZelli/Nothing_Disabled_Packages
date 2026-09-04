@@ -1,10 +1,14 @@
 List of apps that are safe to disable on Nothing OS
 
 - **Disable list of apps:**  
-`xargs -a packages.txt -n1 adb shell pm disable-user --user 0`
+```
+xargs -a packages.txt -n1 adb shell pm disable-user --user 0
+```
 
 - **Clear Data for list of apps:**  
-`xargs -a packages.txt -n1 adb shell pm clear`
+```
+xargs -a packages.txt -n1 adb shell pm clear
+```
 
 ```
 com.android.chrome
