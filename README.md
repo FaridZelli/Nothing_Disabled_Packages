@@ -1,5 +1,3 @@
-List of apps that are safe to disable on Nothing OS
-
 - **Disable list of apps:**  
 ```
 xargs -a packages.txt -n1 adb shell pm disable-user --user 0
@@ -10,6 +8,7 @@ xargs -a packages.txt -n1 adb shell pm disable-user --user 0
 xargs -a packages.txt -n1 adb shell pm clear
 ```
 
+- **List of apps that are safe to disable on Nothing OS:**
 ```
 com.android.chrome
 com.android.hotwordenrollment.okgoogle
@@ -23,6 +22,7 @@ com.google.android.apps.photos
 com.google.android.apps.restore
 com.google.android.apps.safetyhub
 com.google.android.apps.tachyon
+com.google.android.apps.turbo
 com.google.android.apps.wellbeing
 com.google.android.apps.youtube.music
 com.google.android.as
