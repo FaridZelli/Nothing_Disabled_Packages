@@ -5,6 +5,7 @@ com.android.chrome
 com.android.hotwordenrollment.okgoogle
 com.android.hotwordenrollment.xgoogle
 com.android.virtualization.terminal
+com.aura.oobe.solutions
 com.google.android.apps.bard
 com.google.android.apps.docs
 com.google.android.apps.maps
