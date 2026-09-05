@@ -8,7 +8,7 @@ xargs -a packages.txt -n1 adb shell pm disable-user --user 0
 xargs -a packages.txt -n1 adb shell pm clear
 ```
 
-- **List of apps that are safe to disable on Nothing OS:**
+- **List of privacy-invading apps that are safe to disable on Nothing OS:**
 ```
 com.android.chrome
 com.android.hotwordenrollment.okgoogle
@@ -27,10 +27,8 @@ com.google.android.apps.wellbeing
 com.google.android.apps.youtube.music
 com.google.android.as
 com.google.android.as.oss
-com.google.android.calculator
 com.google.android.calendar
 com.google.android.contacts
-com.google.android.deskclock
 com.google.android.googlequicksearchbox
 com.google.android.keep
 com.google.android.odad
