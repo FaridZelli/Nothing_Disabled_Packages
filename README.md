@@ -33,7 +33,9 @@ com.google.android.contacts
 com.google.android.deskclock
 com.google.android.googlequicksearchbox
 com.google.android.keep
+com.google.android.odad
 com.google.android.projection.gearhead
+com.google.android.verifier
 com.google.android.videos
 com.google.android.youtube
 com.nothing.ai.service
