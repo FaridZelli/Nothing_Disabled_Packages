@@ -39,16 +39,13 @@ com.google.android.youtube
 com.nothing.ai.service
 com.nothing.aiwidget
 com.nothing.essentialintelligence
-com.nothing.hearthstone
 com.nothing.logkit
 com.nothing.ntessentialrecorder
 com.nothing.ntessentialspace
 com.nothing.smartcenter
-com.nothing.soundrecorder
 com.nothing.universal.search
 com.nothing.user.center
 com.nothing.userguide
-com.nothing.weather
 ```
 
 - **Disable if present:**
