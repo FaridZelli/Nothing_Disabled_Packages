@@ -39,6 +39,7 @@ com.google.android.youtube
 com.nothing.ai.service
 com.nothing.aiwidget
 com.nothing.essentialintelligence
+com.nothing.gallery
 com.nothing.logkit
 com.nothing.ntessentialrecorder
 com.nothing.ntessentialspace
