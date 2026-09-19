@@ -47,7 +47,6 @@ com.nothing.smartcenter
 com.nothing.universal.search
 com.nothing.user.center
 com.nothing.userguide
-com.nothing.weather
 ```
 
 - **Disable if present:**
